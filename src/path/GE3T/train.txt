@@ -1,0 +1,16 @@
+dataset/GE3T/100 100
+dataset/GE3T/101 101
+dataset/GE3T/102 102
+dataset/GE3T/105 105
+dataset/GE3T/106 106
+dataset/GE3T/107 107
+dataset/GE3T/108 108
+dataset/GE3T/109 109
+dataset/GE3T/110 110
+dataset/GE3T/112 112
+dataset/GE3T/113 113
+dataset/GE3T/114 114
+dataset/GE3T/116 116
+dataset/GE3T/132 132
+dataset/GE3T/137 137
+dataset/GE3T/144 144

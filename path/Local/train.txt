@@ -1,0 +1,15 @@
+dataset/Local/0097RS 0097RS
+dataset/Local/0120LB 0120LB
+dataset/Local/0156ML 0156ML
+dataset/Local/0177CR 0177CR
+dataset/Local/0189HW 0189HW
+dataset/Local/0196BM 0196BM
+dataset/Local/0204BP 0204BP
+dataset/Local/0237RG 0237RG
+dataset/Local/0242CK 0242CK
+dataset/Local/0286MR 0286MR
+dataset/Local/0372ES 0372ES
+dataset/Local/0525FR 0525FR
+dataset/Local/0545GS 0545GS
+dataset/Local/0547LB 0547LB
+dataset/Local/0588NC24 0588NC24
